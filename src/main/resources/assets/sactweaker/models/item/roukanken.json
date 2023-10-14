@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/handheld",
+  "parent": "sactweaker:item/handheld_big",
   "textures": {
     "layer0": "sactweaker:item/roukanken"
   }
